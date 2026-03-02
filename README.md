@@ -109,14 +109,3 @@ The webpage contains:
 ---
 
 ## 👩🏻‍💻 Author
-
-**Tejal Pagar**
-Frontend Web Development Project
-
----
-
-* Make it more professional for GitHub portfolio 🔥
-* Add badges (HTML/CSS/JS)
-* Or convert it into a proper GitHub-ready version with screenshots
-
-Just tell me ✨
