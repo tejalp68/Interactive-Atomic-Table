@@ -109,3 +109,6 @@ The webpage contains:
 ---
 
 ## 👩🏻‍💻 Author
+Tejal Pagar  
+Aspiring Python Developer | Data Science Enthusiast
+
